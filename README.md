@@ -3,3 +3,6 @@ Using kaggle dataset of 'Walmart Store Sales Forecasting' and utilize Tableau da
 <br>
 ![result](image/SAS_EM_Wamart_Sales.jpg)
 ![result](image/TableauWalmart1.jpg)
+![result](image/TableauWalmart2.jpg)
+![result](image/TableauWalmart3.jpg)
+![result](image/TableauWalmart4.jpg)
